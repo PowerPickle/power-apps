@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "apps": [
+    {
+      "id": "power3d",
+      "name": "Power3D",
+      "tagline": "3D CAD for modeling, drawings and manufacturing",
+      "category": "3D design",
+      "bundle": "Power3D.app",
+      "bundle_id": "com.rkservicespdx.power3d",
+      "old_bundle_ids": [
+        "com.powerpickle.power3d"
+      ],
+      "cli": "power3d-cli",
+      "accent": [
+        26,
+        101,
+        224
+      ],
+      "opens": [
+        "p3d",
+        "step",
+        "stp",
+        "iges",
+        "igs",
+        "stl",
+        "obj",
+        "ply"
+      ],
+      "version": "0.45.16-alpha",
+      "url": "https://github.com/PowerPickle/power-apps/releases/download/power3d-v0.45.16-alpha/Power3D.zip",
+      "sha256": "6614ff52967e45514c6db75c6d9a6ebead00b1988bb6aadc4eb37316b651d4d5",
+      "min_macos": "26.0",
+      "size": 41816494
+    },
+    {
+      "id": "powerscan",
+      "name": "PowerScan",
+      "tagline": "3D scanning, by hand or on a turntable",
+      "category": "3D scanning",
+      "bundle": "PowerScan.app",
+      "bundle_id": "com.rkservicespdx.powerscan",
+      "old_bundle_ids": [
+        "com.powerpickle.powerscan"
+      ],
+      "cli": "powerscan-cli",
+      "accent": [
+        26,
+        101,
+        224
+      ],
+      "version": "0.2.34-alpha",
+      "url": "https://github.com/PowerPickle/power-apps/releases/download/powerscan-v0.2.34-alpha/PowerScan.zip",
+      "sha256": "4fbb81fa1998294eeb3a0cc697192880a271c30d6f19dcfc156530f5658074ab",
+      "min_macos": "26.0",
+      "size": 12031666
+    },
+    {
+      "id": "powerslicer",
+      "name": "PowerSlicer",
+      "tagline": "Slicer for filament and resin printers",
+      "category": "3D printing",
+      "bundle": "PowerSlicer.app",
+      "bundle_id": "com.rkservicespdx.powerslicer",
+      "old_bundle_ids": [
+        "app.powerslicer.PowerSlicer",
+        "com.powerpickle.powerslicer"
+      ],
+      "cli": "powerslicer-cli",
+      "accent": [
+        214,
+        98,
+        8
+      ],
+      "opens": [
+        "3mf",
+        "stl",
+        "obj",
+        "ply",
+        "gcode",
+        "gco",
+        "g",
+        "nc",
+        "goo",
+        "sl1",
+        "sl1s",
+        "osla",
+        "odlp",
+        "omsla",
+        "ctb"
+      ],
+      "version": "0.1.9-alpha",
+      "url": "https://github.com/PowerPickle/power-apps/releases/download/powerslicer-v0.1.9-alpha/PowerSlicer.zip",
+      "sha256": "8536942d97a7aeaaca7c7210b078083ca04e7b2c0df526ece2c1455644fd6f1f",
+      "min_macos": "26.0",
+      "size": 36302481
+    },
+    {
+      "id": "powerprint",
+      "name": "PowerPrint",
+      "tagline": "Monitor and control your 3D printers",
+      "category": "3D printing",
+      "bundle": "PowerPrint.app",
+      "bundle_id": "com.rkservicespdx.powerprint",
+      "old_bundle_ids": [
+        "com.powerpickle.powerprint"
+      ],
+      "cli": "powerprint-cli",
+      "accent": [
+        106,
+        72,
+        214
+      ],
+      "version": "0.3.5-alpha",
+      "url": "https://github.com/PowerPickle/power-apps/releases/download/powerprint-v0.3.5-alpha/PowerPrint.zip",
+      "sha256": "f9dfe643cf6c0f4bf35a8650ff6f9c51092c6ae49134f4c3aa801b2bdb3fc47a",
+      "min_macos": "26.0",
+      "size": 13832450
+    },
+    {
+      "id": "powercut",
+      "name": "PowerCut",
+      "tagline": "Design and cut with your cutting machine",
+      "category": "Craft",
+      "bundle": "PowerCut.app",
+      "bundle_id": "com.rkservicespdx.powercut",
+      "old_bundle_ids": [
+        "com.powerpickle.powercut"
+      ],
+      "cli": "powercut-cli",
+      "accent": [
+        6,
+        128,
+        120
+      ],
+      "opens": [
+        "svg",
+        "dxf",
+        "gcode"
+      ],
+      "version": "0.2.5",
+      "url": "https://github.com/PowerPickle/power-apps/releases/download/powercut-v0.2.5/PowerCut.zip",
+      "sha256": "4b1342eeed8bf109ae2dcdf3c2ea094af0d173f52470a0c98c1e3f760f4619ba",
+      "min_macos": "26.0",
+      "size": 13380118
+    }
+  ]
+}

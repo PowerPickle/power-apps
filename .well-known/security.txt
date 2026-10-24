@@ -1,0 +1,8 @@
+# Security contact for RKServicesPDX and the Power apps.
+# Place this file on the website at https://rkservicespdx.com/.well-known/security.txt
+# (RFC 9116). Renew "Expires" before it passes: at most one year ahead.
+Contact: mailto:support@rkservicespdx.com
+Expires: 2027-10-16T23:59:59-07:00
+Preferred-Languages: en
+Policy: https://github.com/PowerPickle/power-apps/blob/main/SECURITY.md
+Canonical: https://rkservicespdx.com/.well-known/security.txt
